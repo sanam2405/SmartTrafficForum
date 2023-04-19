@@ -1,2 +1,2 @@
 # SmartTrafficForum
-This contains the code written for the event Smart Traffic Forum in Jadavpur University, Srijan '23. I along with Krishnaneel Dey, took part under the team name NoName and stood 2nd in the event.
+This contains the code written for the event Smart Traffic Forum at Srijan '23, Jadavpur University. I participated along with Krishnaneel Dey, under the team name *NoName* and stood *2nd* in the event.
